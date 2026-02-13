@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/APIGateway/">
+    <Project Path="src/APIGateway/APIGateway/APIGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/" />
+  <Folder Name="/src/BuildingBlocks/EventBus/">
+    <Project Path="src/BuildingBlocks/EventBus/EventBus/EventBus.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/EventBus/Abstractions/" />
+  <Folder Name="/src/BuildingBlocks/EventBus/Events/" />
+  <Folder Name="/src/BuildingBlocks/EventBus/Implementations/" />
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Basket/">
+    <Project Path="src/Services/Basket/Basket.API/Basket.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Catalog/">
+    <Project Path="src/Services/Catalog/Catalog.API/Catalog.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Ordering/">
+    <File Path="src/Services/Catalog/Catalog.API/WeatherForecast.cs" />
+    <Project Path="src/Services/Ordering/Ordering.API/Ordering.API.csproj" />
+  </Folder>
+</Solution>
